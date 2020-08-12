@@ -1,0 +1,1 @@
+This repository contains some of the code that I wrote for the MTSU Computer Science S-STEM Summer Research Program in the neural networks area.
